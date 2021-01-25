@@ -1,9 +1,9 @@
-___
+---
 layout: post
 title: mi primera vez
 tag: vez ejemplo vida
 categories: demo
-___
+---
 
 ## Heading Two 
 
