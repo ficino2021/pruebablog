@@ -1,0 +1,9 @@
+# Site settings
+title: Fantasico primero
+author:
+  name: Ernesto Priani 
+  email: your-email@domain.com
+description: "Seguimos aprendiendo."
+
+# Build settings
+remote_theme: jekyll/minima
